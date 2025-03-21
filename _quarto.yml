@@ -1,0 +1,26 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "The University of British Columbia"
+  repo-url: https://github.com/alexrod61/gc-leading-scholars-talk
+  repo-actions: [source]
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+
+  sidebar:
+    style: "docked"
+    search: true
+    contents:
+      - section: "Slides"
+        contents:
+          - slides/stats-teaching-journey.qmd
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: true

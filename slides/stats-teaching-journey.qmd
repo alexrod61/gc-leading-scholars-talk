@@ -1,0 +1,176 @@
+---
+title: "A Teaching Journey in Statistics"
+author: G. Alexi Rodríguez-Arelis
+institute: "Department of Statistics, Faculty of Science at UBC"
+format: 
+  revealjs:
+    logo: img/ubc-logo-2018-fullsig.png
+    css: styles.css
+    footer: Green College Leading Scholars Program
+    slide-number: true
+    slide-level: 4
+    transition: none
+include-in-header:
+  text: |
+    <style>
+    #title-slide > .title {
+      color: darkblue;
+    }
+    </style>
+---
+
+## <span style="color: darkblue;">Something about me...
+
+![](img/photo-alexi.jpg){.absolute top=-60 right=-60 height="180"}
+
+- I am an Assistant Professor of Teaching.
+- My graduate teaching is focused on the  <span style="color: purple;">Master of Data Science (MDS)</span>, specifically in Statistics.
+- My undergraduate teaching has been focused on <span style="color: purple;">scientific communication</span>.
+- I am somehow still active in my core PhD research area: <span style="color: purple;">Spatio-temporal data modelling (such as Gaussian stochastic processes)</span>.
+
+# <span style="color: darkblue;">Agenda</span>
+
+1. Statistical Food for Thought
+2. Overview of the Teaching Journey
+3. Teaching Philosophy
+4. A Practical Teaching Case: DSCI 562
+5. Challenges Ahead
+
+## <span style="color: darkblue;">1. Statistical Food for Thought</span>
+
+- We can view Statistics as an <span style="color: purple;">auxiliary science</span> that helps us to learn helpful <span style="color: purple;">population/system</span> insights through <span style="color: purple;">sampled data</span>.
+
+![](img/panda.png){fig-align="center" width=40%}
+
+### <span style="color: darkblue;">How can we visualize it?</span>
+
+<center>
+<img src="https://www.nlm.nih.gov/oet/ed/stats/img/Sampling.png" height="400">
+</center>
+
+::: {style="font-size: 75%;"}
+> **Source:** Kelley et al. (2003).
+:::
+
+### <span style="color: darkblue;">The Importance of Statistical Inference</span>
+
+- Inference allows us to get these population/system insights via sample data and <span style="color: purple;">a whole toolbox of statistical methods</span>.
+
+<center>
+<img src="https://www.nlm.nih.gov/oet/ed/stats/img/Population-Sample.png" height="300">
+</center>
+
+::: {style="font-size: 75%;"}
+> **Source:** National Library of Medicine.
+:::
+
+## <span style="color: darkblue;">2. Overview of the Teaching Journey</span>
+
+:::: incremental
+1. Teaching assistant (2014-2020):
+  - <span style="color: purple;">**STAT 200:**</span> Elementary Statistics for Applications in Science.
+  - <span style="color: purple;">**STAT 251:**</span> Elementary Statistics for Engineering.
+  - <span style="color: purple;">**STAT 305:**</span> Introduction to Statistical Inference.
+  - <span style="color: purple;">**STAT 404:**</span> Design and Analysis of Experiments.
+2. Graduate Statistical Consultant (2017-2020) at the <span style="color: purple;">**Statistical Opportunity for Students (SOS)**</span> program and <span style="color: purple;">**Short Term Consulting Service (STCS)**</span>.
+::::
+
+### <span style="color: darkblue;">Postdoctoral Teaching and Learning Fellow (2021-2023)</span>
+
+![](img/UBC-MDS-logo.png){.absolute top=50 right=-60 height="170"}
+
+:::: incremental
+- <span style="color: purple;">**MDS**</span> A 10-month accelerated professional program
+- 24 one-credit courses distributed across six blocks
+- A subset of these courses falls on the statistical side:
+::::
+
+. . .
+
+<center>
+::: {style="font-size: 75%;"}
+  1. **DSCI 551:** Descriptive Statistics and Probability for Data Science.
+  2. **DSCI 552:** Statistical Inference and Computation I (frequentist).
+  3. **DSCI 553:** Statistical Inference and Computation II (Bayesian).
+  4. **DSCI 554:** Experimentation and Causal Inference.
+  5. **DSCI 561:** Regression I (ordinary least-squares, OLS).
+  6. <span style="color: purple;">**DSCI 562:** Regression II (**beyond OLS**)</span>.
+:::
+
+## <span style="color: darkblue;">3. Teaching Philosophy</span>
+
+<br>
+
+::: {style="font-size: 75%;"}
+> *I believe every person's teaching philosophy begins with their respective <span style="color: purple;">learning experiences</span> across their academic life. Therefore, I define teaching as <span style="color: purple;">a meticulous and flexible process</span> that must be adapted to the <span style="color: purple;">students' background expertise level</span>.*
+:::
+
+. . .
+
+::: {style="font-size: 75%;"}
+> *This flexibility can be achieved in conjunction with diverse <span style="color: purple;">team building</span> and <span style="color: purple;">technological tools</span>. Moreover, I always strive to incorporate robust conceptual frameworks at any statistical course level.*
+:::
+
+### <span style="color: darkblue;">A Data Science Science-oriented Statistical Teaching</span>
+
+- Effective learning can be achieved using <span style="color: purple;">transparent</span>, <span style="color: purple;">reproducible</span>, <span style="color: purple;">collaborative</span>, and <span style="color: purple;">flexible tools</span> with a <span style="color: purple;">solid theoretical basis</span> via exciting and challenging data inquiries.
+
+![](img/software.png){fig-align="center" height=300}
+
+### <span style="color: darkblue;">More specifically...</span>
+
+::::: {style="font-size: 75%;"}
+:::: incremental
+- <span style="color: purple;">**Efficient student teamwork via data science tools.**</span> It is crucial to pose food-for-thought exercises that will get all teams into deep discussions about any given statistical topic.
+- <span style="color: purple;">**Adaptive statistical teaching.**</span> One needs to tune the level of challenge accordingly.
+- <span style="color: purple;">**Incorporation of research and data science-related topics.**</span> Using my PhD research as a pivot point for different teaching materials.
+- <span style="color: purple;">**Collaborative and reproducible teaching tools.**</span> All this development is done through repositories on [**GitHub**](https://github.com/), [**Jupyter notebooks**](https://jupyter.org/), and [**Jupyter books**](https://jupyterbook.org/en/stable/intro.html).
+- <span style="color: purple;">**Foundational theoretical basis.**</span> Comprehensive contributions with theoretical elements across different teaching materials (such as [**DSCI 562**](https://ubc-mds.github.io/DSCI_562_regr-2/README.html)).
+- <span style="color: purple;">**Continuous communication.**</span> The use of communication platforms such as [**Slack**](https://slack.com/).
+::::
+:::::
+
+## <span style="color: darkblue;">4. A Practical Teaching Case: DSCI 562</span>
+
+- There are **eight** lectures, **four** labs, and **two** exams.
+- How can we cover <span style="color: purple;">generalized linear models (GLMs)</span>, <span style="color: purple;">mixed-effects</span>, <span style="color: purple;">local</span>, <span style="color: purple;">survival</span>, and <span style="color: purple;">quantile regression</span>, and <span style="color: purple;">techniques for dealing with missing data</span> **across eight lectures in four weeks**?
+
+![](img/panda.png){fig-align="center" width=50%}
+
+
+### <span style="color: darkblue;">Three Pillars in Regression Teaching</span>
+
+::: incremental
+- **DSCI 562** targets Regression Analysis for **complex data**.
+- Given the amount of material to cover, <span style="color: purple;">lectures are usually quite dense</span>.
+- Therefore, it is imperative to have an <span style="color: purple;">efficient and homogeneous teaching approach</span> that relies on <span style="color: purple;">three pillars</span>.
+:::
+
+![](img/crab.png){fig-align="center" width=70%}
+
+### <span style="color: darkblue;">The pillars</span>
+
+::: incremental
+1. The use of a <span style="color: purple;">Data Science workflow</span>.
+2. Choosing a <span style="color: purple;">proper workflow flavour</span> according to either an <span style="color: purple;">inferential</span> or <span style="color: purple;">predictive</span> paradigm.
+3. The correct use of an appropriate regression model based on the response of interest (<span style="color: purple;">when to use what as a mind map</span>).
+:::
+
+![](img/software.png){fig-align="center" width=70%}
+
+## <span style="color: darkblue;">5. Challenges Ahead</span>
+
+:::: {style="font-size: 75%;"}
+::: incremental
+1. <span style="color: purple;">Open Educational Resources (OERs)</span> are still heavily needed in Machine Learning, Statistics, and Data Science.
+2. We are currently working on that! [**The Regression Cookbook**](https://alexrod61.github.io/regression-cookbook/) is our first approach!
+3. Another project is on the way: **The Hypothesis Testing Mini Cookbook**.
+4. Keep exploring new ways to deliver audiovisual teaching materials such as [**YouTube**](https://www.youtube.com/watch?v=6HPu1mmO4Oo) using [**UBC Studios**](https://ubcstudios.ubc.ca/).
+5. Expand <span style="color: purple;">our current statistical curriculum</span> via external collaborations.
+:::
+::::
+
+## <span style="color: darkblue;">References</span>
+
+- Kelley, K., Clark, B., Brown V., and J. Sitzia. *"Good Practice in the Conduct and Reporting of Survey Research."* International Journal for Quality in Health Care, 15 (3): 261--266. 2003.
+- National Library of Medicine. *"Finding and Using Health Statistics."*
