@@ -1,0 +1,93 @@
+[
+  {
+    "objectID": "slides/stats-teaching-journey.html#something-about-me",
+    "href": "slides/stats-teaching-journey.html#something-about-me",
+    "title": "A Teaching Journey in Statistics",
+    "section": "Something about me…",
+    "text": "Something about me…\n\n\nI am an Assistant Professor of Teaching.\nMy graduate teaching is focused on the Master of Data Science (MDS), specifically in Statistics.\nMy undergraduate teaching has been focused on scientific communication.\nI am somehow still active in my core PhD research area: Spatio-temporal data modelling (such as Gaussian stochastic processes).",
+    "crumbs": [
+      "Home",
+      "Slides",
+      "A Teaching Journey in Statistics"
+    ]
+  },
+  {
+    "objectID": "slides/stats-teaching-journey.html#statistical-food-for-thought",
+    "href": "slides/stats-teaching-journey.html#statistical-food-for-thought",
+    "title": "A Teaching Journey in Statistics",
+    "section": "1. Statistical Food for Thought",
+    "text": "1. Statistical Food for Thought\n\nWe can view Statistics as an auxiliary science that helps us to learn helpful population/system insights through sampled data.",
+    "crumbs": [
+      "Home",
+      "Slides",
+      "A Teaching Journey in Statistics"
+    ]
+  },
+  {
+    "objectID": "slides/stats-teaching-journey.html#overview-of-the-teaching-journey",
+    "href": "slides/stats-teaching-journey.html#overview-of-the-teaching-journey",
+    "title": "A Teaching Journey in Statistics",
+    "section": "2. Overview of the Teaching Journey",
+    "text": "2. Overview of the Teaching Journey\n\n\nTeaching assistant (2014-2020):\n\n\nSTAT 200: Elementary Statistics for Applications in Science.\nSTAT 251: Elementary Statistics for Engineering.\nSTAT 305: Introduction to Statistical Inference.\nSTAT 404: Design and Analysis of Experiments.\n\n\nGraduate Statistical Consultant (2017-2020) at the Statistical Opportunity for Students (SOS) program and Short Term Consulting Service (STCS).",
+    "crumbs": [
+      "Home",
+      "Slides",
+      "A Teaching Journey in Statistics"
+    ]
+  },
+  {
+    "objectID": "slides/stats-teaching-journey.html#teaching-philosophy",
+    "href": "slides/stats-teaching-journey.html#teaching-philosophy",
+    "title": "A Teaching Journey in Statistics",
+    "section": "3. Teaching Philosophy",
+    "text": "3. Teaching Philosophy\n\n\n\nI believe every person’s teaching philosophy begins with their respective learning experiences across their academic life. Therefore, I define teaching as a meticulous and flexible process that must be adapted to the students’ background expertise level.\n\n\n\n\n\nThis flexibility can be achieved in conjunction with diverse team building and technological tools. Moreover, I always strive to incorporate robust conceptual frameworks at any statistical course level.",
+    "crumbs": [
+      "Home",
+      "Slides",
+      "A Teaching Journey in Statistics"
+    ]
+  },
+  {
+    "objectID": "slides/stats-teaching-journey.html#a-practical-teaching-case-dsci-562",
+    "href": "slides/stats-teaching-journey.html#a-practical-teaching-case-dsci-562",
+    "title": "A Teaching Journey in Statistics",
+    "section": "4. A Practical Teaching Case: DSCI 562",
+    "text": "4. A Practical Teaching Case: DSCI 562\n\nThere are eight lectures, four labs, and two exams.\nHow can we cover generalized linear models (GLMs), mixed-effects, local, survival, and quantile regression, and techniques for dealing with missing data across eight lectures in four weeks?",
+    "crumbs": [
+      "Home",
+      "Slides",
+      "A Teaching Journey in Statistics"
+    ]
+  },
+  {
+    "objectID": "slides/stats-teaching-journey.html#challenges-ahead",
+    "href": "slides/stats-teaching-journey.html#challenges-ahead",
+    "title": "A Teaching Journey in Statistics",
+    "section": "5. Challenges Ahead",
+    "text": "5. Challenges Ahead\n\n\n\nOpen Educational Resources (OERs) are still heavily needed in Machine Learning, Statistics, and Data Science.\nWe are currently working on that! The Regression Cookbook is our first approach!\nAnother project is on the way: The Hypothesis Testing Mini Cookbook.\nKeep exploring new ways to deliver audiovisual teaching materials such as YouTube using UBC Studios.\nExpand our current statistical curriculum via external collaborations.",
+    "crumbs": [
+      "Home",
+      "Slides",
+      "A Teaching Journey in Statistics"
+    ]
+  },
+  {
+    "objectID": "slides/stats-teaching-journey.html#references",
+    "href": "slides/stats-teaching-journey.html#references",
+    "title": "A Teaching Journey in Statistics",
+    "section": "References",
+    "text": "References\n\nKelley, K., Clark, B., Brown V., and J. Sitzia. “Good Practice in the Conduct and Reporting of Survey Research.” International Journal for Quality in Health Care, 15 (3): 261–266. 2003.\nNational Library of Medicine. “Finding and Using Health Statistics.”\n\n\n\n\n\nGreen College Leading Scholars Program",
+    "crumbs": [
+      "Home",
+      "Slides",
+      "A Teaching Journey in Statistics"
+    ]
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "A Teaching Journey in Statistics",
+    "section": "",
+    "text": "A Teaching Journey in Statistics\nThis repository contains the presentation given at a lunch of the Green College Leading Scholars Program.\nDate: Friday, March 21, 2025.\nSpeaker: G. Alexi Rodríguez-Arelis, PhD\nalexrod@stat.ubc.ca\nAffiliation: Assistant Professor of Teaching,Department of Statistics, UBC\nThis website contains a Quarto presentation."
+  }
+]
